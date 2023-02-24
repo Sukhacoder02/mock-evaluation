@@ -1,0 +1,28 @@
+nav {
+  background-color: #38479e;
+  color: white;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.title {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.my {
+  font-size: 2rem;
+  font-weight: normal;
+}
+.record {
+  font-size: 2rem;
+  font-weight: 900;
+}
+.shelf {
+  font-size: 2rem;
+  font-weight: normal;
+}
